@@ -1,0 +1,10 @@
+package com.fengk;
+
+/**
+ *
+ */
+public class testDemo2 {
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
+}
